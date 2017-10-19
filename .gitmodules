@@ -1,0 +1,3 @@
+[submodule "vendor/couchbase-lite-net"]
+	path = vendor/couchbase-lite-net
+	url = https://github.com/couchbase/couchbase-lite-net
